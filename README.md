@@ -1,3 +1,1 @@
-Meu primeiro sistema no git.
-
-oioioiooi
+Meu primeiro sistema no git. (alterado e atualizado!)
